@@ -22,8 +22,7 @@ My research interests include Efficient AI, Image Restoration, and Generative Mo
 - **Harbin Institute of Technology, Weihai**, B.Eng. in Computer Science and Technology, 2023 - Present
 
 # Projects
-**2018.09-2018.12, Driver Monitor System (DMS)**
-- Design a light-weighted end-to-end network running on an onboard chip to detect smoking, phoning, and drinking in driving.
+**Dam Inspection ROV System**  
 <div>
        <video src='collections/ROV/Image86.mp4' controls="controls" width="30%" height="200px"></video>
        <video src='collections/ROV/Image89.mp4' controls="controls" width="30%" height="200px"></video>
