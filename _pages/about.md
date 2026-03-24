@@ -19,7 +19,7 @@ My research interests include Efficient AI, Image Restoration, and Generative Mo
 
 # Education
 
-- *2023.08-present* \| B.Eng. in Computer Science and Technology \| [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn)
+- *2023.08-present* \| B.Eng. in CS\| [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn)
 
 # Projects
 **2024.07-2025.08, Dam Inspection ROV System**  
