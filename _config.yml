@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings"Lorem ipsum"
-title                    : 
+title                    : "Yifei Qu"
 description              : 
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : 
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yifei Qu （曲逸飞）"
   avatar           : "images/stitch.jpg"
-  bio              : "Harbin Institute of Technology, Weihai"
+  bio              : #"Harbin Institute of Technology, Weihai"
   location         : "Weihai, China"
   employer         :
   pubmed           : 
