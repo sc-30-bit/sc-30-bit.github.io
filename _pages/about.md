@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yifei Qu, an undergraduate student in Computer Science and Technology at Harbin Institute of Technology, Weihai. I am currently a junior student advised by [Prof. Ru Li](https://liru0126.github.io/).
+I am Yifei Qu, an undergraduate student in Computer Science and Technology at [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn). I am currently a junior student advised by [Prof. Ru Li](https://liru0126.github.io/).
 
 My research interests include Efficient AI, Image Restoration, and Generative Models.
 
