@@ -12,7 +12,7 @@ redirect_from:
 
 # About Me
 
-I am Yifei Qu, currently a junior undergraduate in Computer Science and Technology at [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn). I feel very fortunate to be supervised by [Prof. Ru Li](https://liru0126.github.io/).
+I am Yifei Qu, currently a junior undergraduate in Computer Science and Technology at [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn), fortunately advised by [Prof. Ru Li](https://liru0126.github.io/).
 
 I have also learned a great deal from many mentors, senior students, and friends who have generously shared their time, answered my questions, and offered thoughtful advice, both technically and non-technically.
 
