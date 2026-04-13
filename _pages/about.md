@@ -14,8 +14,7 @@ redirect_from:
 
 I am Yifei Qu, currently a junior undergraduate in Computer Science and Technology at [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn), fortunately advised by [Prof. Ru Li](https://liru0126.github.io/).
 
-My research interests include Efficient AI, Generative AI, and Image Restoration.
-
+My research interests include Efficient AI, Generative AI, and computer vision, with current research experience mainly in image restoration.
 
 # Publications
 
