@@ -27,6 +27,6 @@ My research interests lie in low-level vision and multimodal models.
 - *2024.07-2025.08* \| Dam Inspection ROV System  
 <div>
        <video src='collections/ROV/Image86.mp4' controls="controls" width="30%" height="200px"></video>
-       <video src='collections/ROV/Image89.mp4' controls="controls" width="30%" height="200px"></video>
+       <video src='collections/ROV/Image90.mp4' controls="controls" width="30%" height="200px"></video>
        <video src='collections/ROV/Image92.mp4' controls="controls" width="30%" height="200px"></video>
 </div>
