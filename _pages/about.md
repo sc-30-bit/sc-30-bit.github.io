@@ -18,6 +18,8 @@ My research interests lie in low-level vision and multimodal models.
 
 # Publications
 
+**2026**
+
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2026_pglnet_arxiv/2026_pglnet_arxiv.png' alt="PGL-Net" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
