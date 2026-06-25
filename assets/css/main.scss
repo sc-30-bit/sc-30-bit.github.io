@@ -43,11 +43,11 @@
 .paper-box {
     display: flex;
     justify-content: left;
-    align-items: center;
+    align-items: flex-start;
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    padding: 1em 0 1em 0;
     
 
     .paper-box-image{
@@ -56,9 +56,9 @@
         width: 100%;
         order: 2;
         img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
+            width: 100%;
+            max-width: 280px;
+            object-fit: contain;
         }
     }
     
@@ -70,15 +70,16 @@
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
+            flex: 0 0 280px;
+            max-width: 280px;
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
+            flex: 1;
+            padding-left: 1.5em;
+            max-width: none;
             order: 2;
         }
 
