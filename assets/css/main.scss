@@ -42,44 +42,46 @@
 
 .paper-box {
     display: flex;
-    justify-content: left;
-    align-items: flex-start;
+    align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
-    padding: 1em 0 1em 0;
+    padding: 0.5em;
     
 
     .paper-box-image{
-        justify-content: center;
-        display: flex;
-        width: 100%;
+        flex: 0 0 21%;
+        min-width: 48px;
+        max-width: 21%;
         order: 2;
+
         img {
+            display: block;
             width: 100%;
-            max-width: 280px;
-            object-fit: contain;
+            max-width: 100%;
+            height: auto;
         }
     }
     
     .paper-box-text{
+        flex: 0 0 100%;
         max-width: 100%;
         order: 1;
     }
     
     @include breakpoint($medium) {
         .paper-box-image{
-            justify-content: left;
-            flex: 0 0 280px;
-            max-width: 280px;
+            padding-right: 1em;
+            flex: 0 0 21%;
+            min-width: 48px;
+            max-width: 21%;
+            box-sizing: border-box;
             order: 1;
         }
         
         .paper-box-text{
-            justify-content: left;
-            flex: 1;
-            padding-left: 1.2em;
-            max-width: none;
+            flex: 0 0 79%;
+            max-width: 79%;
             order: 2;
         }
 
