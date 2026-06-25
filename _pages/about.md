@@ -18,6 +18,19 @@ My research interests lie in low-level vision and multimodal models.
 
 # Publications
 
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2026_pglnet_arxiv/2026_pglnet_arxiv.png' alt="PGL-Net" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Efficient Real-World Dehazing via Physics-Inspired Global-Local Decoupling**
+
+*arXiv, 2026*
+
+**Yifei Qu**, Ru Li, Junjie Chen, Jinyuan Wu
+
+[Paper](http://arxiv.org/abs/2606.25732) \| [Code](https://github.com/sc-30-bit/PGL-Net) \| [BibTex](collections/2026_pglnet_arxiv/2026_pglnet_arxiv.md)
+</div>
+</div>
+
 
 # Education
 
