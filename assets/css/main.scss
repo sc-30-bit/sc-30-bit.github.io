@@ -50,9 +50,9 @@
     
 
     .paper-box-image{
-        flex: 0 0 21%;
+        flex: 0 0 280px;
         min-width: 48px;
-        max-width: 21%;
+        max-width: 280px;
         order: 2;
 
         img {
@@ -72,16 +72,16 @@
     @include breakpoint($medium) {
         .paper-box-image{
             padding-right: 1em;
-            flex: 0 0 21%;
+            flex: 0 0 280px;
             min-width: 48px;
-            max-width: 21%;
+            max-width: 280px;
             box-sizing: border-box;
             order: 1;
         }
         
         .paper-box-text{
-            flex: 0 0 79%;
-            max-width: 79%;
+            flex: 1 1 0;
+            max-width: none;
             order: 2;
         }
 
