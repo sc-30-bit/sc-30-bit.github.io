@@ -29,7 +29,7 @@ My research interests lie in low-level vision and multimodal models.
 
 Tao Yu\*, **Yifei Qu\***, Zhiqing Cui, Pengfei Zhou, Zhongtian Luo, Yujia Yang, Shenghua Chai, Haopeng Jin, Zhenghao Zhang, Xinming Wang, Hongzhu Yi, Wangbo Zhao, Zhenlin Wang, Yan Huang, Yeshani, Jinwen Luo, Yang You
 
-[Code](https://github.com/yutao1024/SCOPE-Router)
+Paper \| [Code](https://github.com/yutao1024/SCOPE-Router) \| BibTex
 </div>
 </div>
 
