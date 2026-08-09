@@ -61,6 +61,15 @@
             max-width: 100%;
             height: auto;
         }
+
+        &.paper-box-image-contain {
+            display: flex;
+            align-items: center;
+
+            img {
+                object-fit: contain;
+            }
+        }
     }
     
     .paper-box-text{
