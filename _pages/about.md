@@ -18,7 +18,7 @@ My research interests lie in low-level vision and multimodal models.
 
 # Publications
 
-"\*" means authors contribute equally.
+"*" means authors contribute equally.
 
 **2026**
 
