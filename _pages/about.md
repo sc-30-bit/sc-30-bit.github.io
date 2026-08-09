@@ -20,6 +20,21 @@ My research interests lie in low-level vision and multimodal models.
 
 **2026**
 
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2026_SCOPE_Router/overview.png' alt="SCOPE-Router" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**SCOPE-Router: Cost-Aware Open-Set VLM Routing for Execution-Oriented Tasks**
+
+*AAAI 2027 Conference Submission*
+
+Tao Yu\*, **Yifei Qu\***, Zhiqing Cui, Pengfei Zhou, Zhongtian Luo, Yujia Yang, Shenghua Chai, Haopeng Jin, Zhenghao Zhang, Xinming Wang, Hongzhu Yi, Wangbo Zhao, Zhenlin Wang, Yan Huang, Yeshani, Jinwen Luo, Yang You
+
+[Paper](collections/2026_SCOPE_Router/overview.pdf) \| [Code](https://github.com/yutao1024/SCOPE-Router) \| [BibTex](collections/2026_SCOPE_Router/2026_SCOPE_Router.md)
+</div>
+</div>
+
+<small>* means authors contribute equally.</small>
+
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2026_pglnet_arxiv/2026_pglnet_arxiv.png' alt="PGL-Net" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
