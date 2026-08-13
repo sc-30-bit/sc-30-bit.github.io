@@ -53,6 +53,11 @@ Tao Yu\*, **Yifei Qu\***, Zhiqing Cui\*, Pengfei Zhou\#, Zhongtian Luo, Yujia Ya
 
 - *2023.08-present* \| B.Eng. in CS\| [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn)
 
+# Internships
+
+- *2025.05 - 2026.03*, Prof. Shengping Zhang's Research Group, Harbin Institute of Technology (HIT), China.
+- *2026.04 - 2026.08*, National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), China.
+
 # Projects
 - *2024.07-2025.08* \| Dam Inspection ROV System  
 <div>
