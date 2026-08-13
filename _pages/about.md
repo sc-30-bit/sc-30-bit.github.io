@@ -18,9 +18,22 @@ My research interests lie in low-level vision and multimodal models.
 
 # Publications
 
-&quot;*&quot; means authors contribute equally.
+&quot;*&quot; means authors contribute equally. &quot;#&quot; means corresponding author.
 
 **2026**
+
+<div class='paper-box'><div class='paper-box-image paper-box-image-contain'><img src='collections/2026_SCOPE_Router/overview.png' alt="SCOPE-Router" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**SCOPE-Router: Cost-Aware Open-Set VLM Routing for Execution-Oriented Tasks**
+
+*arXiv, 2026*
+
+Tao Yu\*, **Yifei Qu\***, Zhiqing Cui\*, Pengfei Zhou\#, Zhongtian Luo, Yujia Yang, Shenghua Chai, Haopeng Jin, Zhenghao Zhang, Xinming Wang, Hongzhu Yi\#, Wangbo Zhao, Zhenglin Wan, Yan Huang\#, Yeshani, Jinwen Luo, Yang You
+
+[Paper](https://arxiv.org/pdf/2608.12127) \| [Code](https://github.com/yutao1024/SCOPE-Router) \| [BibTex](collections/2026_SCOPE_Router/2026_SCOPE_Router.md)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2026_pglnet_arxiv/2026_pglnet_arxiv.png' alt="PGL-Net" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -29,7 +42,7 @@ My research interests lie in low-level vision and multimodal models.
 
 *arXiv, 2026*
 
-**Yifei Qu**, Ru Li, Junjie Chen, Jinyuan Wu
+**Yifei Qu**, Ru Li\#, Junjie Chen, Jinyuan Wu
 
 [Paper](http://arxiv.org/abs/2606.25732) \| [Code](https://github.com/sc-30-bit/PGL-Net) \| [BibTex](collections/2026_pglnet_arxiv/2026_pglnet_arxiv.md)
 </div>
