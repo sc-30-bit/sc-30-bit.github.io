@@ -12,7 +12,7 @@ redirect_from:
 
 # About Me
 
-I am Yifei Qu, an incoming Ph.D. student in a joint program between [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/) and [Shanghai AI Laboratory](https://www.shlab.org.cn/), under the supervision of [Prof. Peng Liu](https://homepage.hit.edu.cn/liupeng) and [Prof. Bin Zhao](https://iopen.nwpu.edu.cn/info/1251/1852.htm). I am currently completing my B.Eng. in Computer Science and Technology at [HIT, Weihai](https://www.hitwh.edu.cn), advised by [Prof. Ru Li](https://liru0126.github.io/).
+I am Yifei Qu, an incoming Ph.D. student in a joint program between [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/) and [Shanghai AI Laboratory](https://www.shlab.org.cn/), under the supervision of [Prof. Peng Liu](https://homepage.hit.edu.cn/liupeng) and [Prof. Bin Zhao](https://iopen.nwpu.edu.cn/info/1251/1852.htm). I am currently completing my B.Eng. in Computer Science and Technology at [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn), advised by [Prof. Ru Li](https://liru0126.github.io/).
 
 My research interests lie in low-level vision and embodied AI.
 
