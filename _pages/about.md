@@ -12,9 +12,9 @@ redirect_from:
 
 # About Me
 
-I am Yifei Qu, currently a junior undergraduate in Computer Science and Technology at [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn), fortunately advised by [Prof. Ru Li](https://liru0126.github.io/).
+I am Yifei Qu, currently a fourth-year undergraduate in Computer Science and Technology at [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn), advised by [Prof. Ru Li](https://liru0126.github.io/). I am also an incoming Ph.D. student in a joint program between Harbin Institute of Technology (HIT) and Shanghai AI Laboratory, under the supervision of [Prof. Peng Liu](https://homepage.hit.edu.cn/liupeng) and [Prof. Bin Zhao](https://iopen.nwpu.edu.cn/info/1251/1852.htm).
 
-My research interests lie in low-level vision and multimodal models.
+My research interests lie in low-level vision and embodied AI, with a particular focus on multi-agent systems.
 
 # Publications
 
@@ -52,11 +52,6 @@ Tao Yu\*, **Yifei Qu\***, Zhiqing Cui\*, Pengfei Zhou\#, Zhongtian Luo, Yujia Ya
 # Education
 
 - *2023.08-present* \| B.Eng. in CS\| [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn)
-
-# Internships
-
-- *2025.05 - 2026.03*, Prof. Shengping Zhang's Research Group, Harbin Institute of Technology (HIT), China.
-- *2026.04 - 2026.08*, National Laboratory of Pattern Recognition (NLPR), Institute of Automation, China.
 
 # Projects
 - *2024.07-2025.08* \| Dam Inspection ROV System  
